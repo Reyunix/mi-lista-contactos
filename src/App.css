@@ -1,0 +1,12 @@
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 2em;
+
+}
+
+body{
+  justify-content: center;
+}

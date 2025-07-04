@@ -1,0 +1,20 @@
+.tarjeta-contacto {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 10px;
+  text-align: center;
+  transition: background 0.3s;
+  color: black;
+}
+.tarjeta-contacto.activo {
+  background-color: #e6ffed;
+}
+.tarjeta-contacto.inactivo {
+  background-color: #ffe6e6;
+}
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
