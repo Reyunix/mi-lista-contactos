@@ -1,22 +1,25 @@
-# Lista de Contactos en React
+# Lista de Contactos - React
 
-Proyecto hecho con React y Vite. Muestra una lista de contactos con información como nombre, email, teléfono, avatar y estado (activo/inactivo).
+## 🚀 Demo en Vivo  
+[Ver aplicación](https://cozy-paletas-58535d.netlify.app/)
 
-## Funcionalidades
+## 📖 Descripción  
+Aplicación React que muestra una lista de contactos con filtros y diseño responsive. Proyecto de práctica para aplicar los conceptos básicos de React.
 
-- Lista de contactos usando `.map()`
-- Componente individual por contacto
-- Filtro para mostrar solo activos
-- Contador de contactos
-- Estilos básicos con CSS
+## 🛠️ Tecnologías  
+- React  
+- Vite  
+- CSS3  
+- Netlify  
 
-## Instalación
+## ✨ Funcionalidades  
+- [x] Lista de contactos  
+- [x] Filtro por estado (activos/inactivos)  
+- [x] Contador de contactos  
+- [x] Diseño responsive  
+- [ ] Buscador por nombre (opcional)  
 
+## 🏃‍♂️ Cómo ejecutar  
 ```bash
 npm install
 npm run dev
-```
-
-Notas:
-
-Proyecto realizado como práctica de React.
